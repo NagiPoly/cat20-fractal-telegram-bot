@@ -211,3 +211,4 @@ To run the FastAPI API, execute the following command from the root directory:
 ```bash
 python app/main.py
 ```
+
